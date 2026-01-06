@@ -1,0 +1,29 @@
+---
+tags:
+  - type/source/book
+  - status/reading
+author: 
+date_finished: 
+rating: 
+---
+
+# 📚 [Titre du Livre]
+
+![Cover]()
+
+## 🧐 Pourquoi ce livre ?
+*Qu'est-ce que j'espère en tirer ?*
+
+## 🔑 3 Idées Majeures
+1. 
+2. 
+3. 
+
+## 📝 Notes de Lecture (Fleeting Notes)
+*Chapitre par chapitre ou en vrac.*
+
+## 🧠 Concepts Extraits ( Vers Zettelkasten)
+*Liste des concepts atomisés depuis ce livre.*
+- [[Concept 1]]
+- [[Concept 2]]
+
