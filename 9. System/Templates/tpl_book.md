@@ -1,7 +1,8 @@
 ---
 tags:
-  - type/source/book
-  - status/reading
+  - type/literature
+  - media/book
+  - status/growing
 author: 
 date_finished: 
 rating: 

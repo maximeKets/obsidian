@@ -1,7 +1,7 @@
 ---
 tags:
   - type/project
-  - status/focus
+  - status/growing
 deadline: 
 ---
 
