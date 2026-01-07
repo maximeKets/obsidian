@@ -86,7 +86,7 @@ WHERE status = "reading"
 Le texte principal de votre note commencera à gauche de cet encadré qui flottera à droite.
 ```
 
-### Barre de progression (HTML)
+### Barre de progression 
 ```html
 <progress value="40" max="100"></progress> 40%
 ```

@@ -1,14 +1,19 @@
 ---
 tags:
   - type/project
-  - status/focus
-deadline:
+  - status/growing
+deadline: 2026-01-09
+author: Maxime
+date_finished:
 ---
+<progress value="10" max="100"></progress> 10%
 
-# 🚀 Projet : [Nom du Projet]
+# 🚀 Projet : [Portfolio]
 
 ## 🎯 Objectif (SMART)
 *Quel est le résultat final attendu ?*
+
+Creer un portefolio avec astro connecté à un mcp permettant de presenter les technologie maitrisé et les projet en lien 
 
 ## 📅 Milestones
 - [ ] Jalon 1
