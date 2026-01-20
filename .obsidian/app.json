@@ -1,1 +1,7 @@
-{}
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "0. Inbox",
+  "attachmentFolderPath": "9. System/Attachments",
+  "uriCallbacks": false,
+  "alwaysUpdateLinks": true
+}
