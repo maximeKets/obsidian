@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/Zettelkasten/Calcul de la cote PMU.md",
+                "file": "1. Projects/Portfolio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Calcul de la cote PMU"
+              "title": "Portfolio"
             }
           }
         ]
@@ -203,6 +203,9 @@
   },
   "active": "347a215eaa53e3cb",
   "lastOpenFiles": [
+    "3. Resources/Zettelkasten/Simulation répartition gains PMU.md",
+    "3. Resources/Zettelkasten/Calcul des gains PMU.md",
+    "3. Resources/Zettelkasten/Calcul de la cote PMU.md",
     "3. Resources/References/OpenAI - Connectors and MCP Servers.md",
     "Risques de sécurité MCP.md",
     "3. Resources/Zettelkasten/Model Context Protocol (MCP).md",
