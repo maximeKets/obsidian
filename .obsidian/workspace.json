@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "aa807f87da522606",
+        "id": "5cb598d45dea2cbc",
         "type": "tabs",
         "children": [
           {
-            "id": "347a215eaa53e3cb",
+            "id": "ab588e4e33f71dac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/Portfolio.md",
+                "file": "1. Projects/Course Hippique/01. Définition Variables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Portfolio"
+              "title": "01. Définition Variables"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"tags\"]",
+                "query": "tag:project/hippique",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Areas/Santé.md",
+                "file": "1. Projects/Course Hippique/01. Définition Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Santé"
+              "title": "Backlinks for 01. Définition Variables"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Areas/Santé.md",
+                "file": "1. Projects/Course Hippique/01. Définition Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Santé"
+              "title": "Outgoing links from 01. Définition Variables"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Areas/Santé.md",
+                "file": "1. Projects/Course Hippique/01. Définition Variables.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Santé"
+              "title": "Outline of 01. Définition Variables"
             }
           },
           {
@@ -157,7 +157,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "2. Areas/Santé.md"
+                "file": "1. Projects/Course Hippique/01. Définition Variables.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -177,12 +177,12 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,33 +201,38 @@
       "random-note:Open random note": false
     }
   },
-  "active": "347a215eaa53e3cb",
+  "active": "ab588e4e33f71dac",
   "lastOpenFiles": [
-    "3. Resources/Zettelkasten/Simulation répartition gains PMU.md",
-    "3. Resources/Zettelkasten/Calcul des gains PMU.md",
-    "3. Resources/Zettelkasten/Calcul de la cote PMU.md",
-    "3. Resources/References/OpenAI - Connectors and MCP Servers.md",
-    "Risques de sécurité MCP.md",
-    "3. Resources/Zettelkasten/Model Context Protocol (MCP).md",
-    "3. Resources/Zettelkasten/Connectors vs Remote MCP Servers.md",
-    "0. Inbox/Daily/2026-01-06.md",
-    "2. Areas/Santé.md",
-    "1. Projects/Portfolio.md",
-    "9. System/Components Library.md",
-    "9. System/Templates/tpl_area.md",
-    "9. System/README.md",
-    "2. Areas/Dev",
-    "1. Projects/Untitled.md",
-    "9. System/Templates/tpl_project.md",
-    "Note de brainstorming.md",
-    "9. System/Tag Taxonomy.md",
-    "Excalidraw/Drawing 2026-01-07 08.21.40.excalidraw.md",
-    "Excalidraw",
-    "9. System/Templates/tpl_meeting.md",
-    "9. System/Templates/tpl_zettel.md",
+    "3. Resources/Variables/La Musique.md",
+    "1. Projects/Course Hippique/02. Sourcing Data.md",
+    "1. Projects/Course Hippique/01. Définition Variables.md",
     "9. System/Templates/tpl_daily.md",
+    "9. System/Templates/tpl_zettel.md",
     "9. System/Templates/tpl_book.md",
-    "2026-01-05.md",
+    "9. System/Templates/tpl_area.md",
+    "0. Inbox/Web Scraping.md",
+    "0. Inbox/Daily/2026-01-23.md",
+    "3. Resources/Variables/Les Données TRACKING.md",
+    "1. Projects/Course Hippique/00. Course Hippique.md",
+    "3. Resources/Variables/Le Couple Driver + Entraîneur.md",
+    "3. Resources/Variables/Les Conditions de Course.md",
+    "3. Resources/Variables/Les Notes d'Entraînement.md",
+    "3. Resources/Variables/Les Mouvements de Cote et la Masse.md",
+    "1. Projects/Course Hippique/03. Coder POC.md",
+    "1. Projects/Course Hippique/05. Automatisation.md",
+    "1. Projects/Course Hippique/04. Affinage Algorithme.md",
+    "1. Projects/Course Hippique.md",
+    "1. Projects/Course Hippique",
+    "1. Projects/Portfolio.md",
+    "3. Resources/Zettelkasten/Calcul de la cote PMU.md",
+    "2. Areas/Santé.md",
+    "0. Inbox/Les données TRACKING..md",
+    "3. Resources/Zettelkasten/Calcul des gains PMU.md",
+    "3. Resources/Variables",
+    "0. Inbox/Daily/2026-01-06.md",
+    "3. Resources/Zettelkasten/Simulation répartition gains PMU.md",
+    "2. Areas/Dev",
+    "Excalidraw",
     "Untitled.base"
   ]
 }

@@ -25,6 +25,6 @@ rating:
 
 ## 🧠 Concepts Extraits ( Vers Zettelkasten)
 *Liste des concepts atomisés depuis ce livre.*
-- [[Concept 1]]
-- [[Concept 2]]
+
+
 

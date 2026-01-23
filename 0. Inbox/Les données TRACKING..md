@@ -1,8 +1,6 @@
-<%*
-const creationDate = tp.date.now("YYYY-MM-DD HH:mm");
-%>
+
 ---
-date_created: <% creationDate %>
+date_created: 2026-01-23 15:44
 tags:
   - type/permanent
   - status/seed
@@ -15,13 +13,13 @@ tags:
 
 ## 🔗 Connexions (Backlinks)
 *Reliez cette idée à ce que vous savez déjà.*
-- [[exemple]]
-- [[exemple]]
+- [[Lien vers concept parent]]
+- [[Lien vers concept lié]]
 
 ## 📚 Référence Source
 *D'où vient cette idée ?*
-- Source :
+- Source : [[Titre du livre ou Article]]
 
 ---
 **Questions ouvertes :**
-- [[exemple]]
+- 

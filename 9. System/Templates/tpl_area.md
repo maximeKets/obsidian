@@ -28,5 +28,4 @@ AND file.folder = this.file.folder
 
 ## 🗄️ Ressources Spécifiques
 *Liens vers des documents de référence importants.*
-- [[Contrat d'assurance]]
-- [[Routine Sport]]
+
