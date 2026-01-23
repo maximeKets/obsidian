@@ -3,9 +3,12 @@ tags:
   - type/variable
   - context/hippique
   - category/cheval
+category: Course
+temperature: 🔥
+importance: ⭐⭐⭐
 format: integer
 unit: km/h
-importance: high
+description: Les Conditions de Course définissent les règles d'éligibilité et les handicaps d'une épreuve spécifique.
 ---
 ## 1. Définition
 Les Conditions de Course définissent les règles d'éligibilité et les handicaps d'une épreuve spécifique. Elles sont rédigées par la société mère (LeTrot) et dictent qui a le droit de courir.

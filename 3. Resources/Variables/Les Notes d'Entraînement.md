@@ -3,9 +3,12 @@ tags:
   - type/variable
   - context/hippique
   - category/cheval
+category: Cheval
+temperature: 🔥
+importance: ⭐⭐⭐
 format: integer
 unit: km/h
-importance: high
+description: Le Heat désigne la séance d'échauffement que le trotteur effectue sur la piste officielle, généralement 30 à 60 minutes avant la course.
 ---
 ## 1. Définition
 Le "Heat" désigne la séance d'échauffement que le trotteur effectue sur la piste officielle, généralement 30 à 60 minutes avant la course.

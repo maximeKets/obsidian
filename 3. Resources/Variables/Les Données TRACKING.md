@@ -3,9 +3,12 @@ tags:
   - type/variable
   - context/hippique
   - category/cheval
+category: Cheval
+temperature: 🧊
+importance: ⭐⭐⭐
 format: integer
 unit: km/h
-importance: high
+description: Les données de Tracking désignent l'ensemble des mesures géospatiales et cinématiques collectées en temps réel sur le cheval et le driver.
 ---
 # Les Données TRACKING
 

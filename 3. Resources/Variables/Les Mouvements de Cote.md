@@ -3,9 +3,12 @@ tags:
   - type/variable
   - context/hippique
   - category/course
+category: Marché
+temperature: 🔥
+importance: ⭐⭐⭐
 format: integer
 unit: eur
-importance: high
+description: Les Mouvements de Cote représentent la fluctuation de la valeur de gain potentiel d'un cheval au fil du temps.
 ---
 
 ## 1. Définition

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5cb598d45dea2cbc",
+        "id": "be526ef1b613da13",
         "type": "tabs",
         "children": [
           {
-            "id": "ab588e4e33f71dac",
+            "id": "fa90ba918bde2923",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Projects/Course Hippique/01. Définition Variables.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "01. Définition Variables"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/Course Hippique/01. Définition Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 01. Définition Variables"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/Course Hippique/01. Définition Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 01. Définition Variables"
+              "title": "Outgoing links"
             }
           },
           {
@@ -142,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/Course Hippique/01. Définition Variables.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 01. Définition Variables"
+              "title": "Outline"
             }
           },
           {
@@ -156,9 +149,7 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {
-                "file": "1. Projects/Course Hippique/01. Définition Variables.md"
-              },
+              "state": {},
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
@@ -201,23 +192,23 @@
       "random-note:Open random note": false
     }
   },
-  "active": "ab588e4e33f71dac",
+  "active": "fa90ba918bde2923",
   "lastOpenFiles": [
+    "3. Resources/Variables/Les Mouvements de Cote.md",
+    "1. Projects/Course Hippique/01. Définition Variables.md",
+    "3. Resources/Variables/Les Conditions de Course.md",
+    "3. Resources/Variables/Les Notes d'Entraînement.md",
+    "3. Resources/Variables/Les Données TRACKING.md",
+    "3. Resources/Variables/Le Couple Driver + Entraîneur.md",
     "3. Resources/Variables/La Musique.md",
     "1. Projects/Course Hippique/02. Sourcing Data.md",
-    "1. Projects/Course Hippique/01. Définition Variables.md",
     "9. System/Templates/tpl_daily.md",
     "9. System/Templates/tpl_zettel.md",
     "9. System/Templates/tpl_book.md",
     "9. System/Templates/tpl_area.md",
     "0. Inbox/Web Scraping.md",
     "0. Inbox/Daily/2026-01-23.md",
-    "3. Resources/Variables/Les Données TRACKING.md",
     "1. Projects/Course Hippique/00. Course Hippique.md",
-    "3. Resources/Variables/Le Couple Driver + Entraîneur.md",
-    "3. Resources/Variables/Les Conditions de Course.md",
-    "3. Resources/Variables/Les Notes d'Entraînement.md",
-    "3. Resources/Variables/Les Mouvements de Cote et la Masse.md",
     "1. Projects/Course Hippique/03. Coder POC.md",
     "1. Projects/Course Hippique/05. Automatisation.md",
     "1. Projects/Course Hippique/04. Affinage Algorithme.md",

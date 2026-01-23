@@ -3,9 +3,12 @@ tags:
   - type/variable
   - context/hippique
   - category/cheval
+category: Jockey
+temperature: 🧊
+importance: ⭐⭐⭐
 format: integer
 unit: km/h
-importance: high
+description: "Ce facteur analyse la performance et la stratégie des deux humains responsables du cheval : l'Entraîneur et le Driver."
 ---
 ## 1. Définition
 Ce facteur analyse la performance et la stratégie des deux humains responsables du cheval :

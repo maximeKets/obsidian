@@ -3,9 +3,12 @@ tags:
   - type/variable
   - context/hippique
   - category/market
+category: Marché
+temperature: 🧊
+importance: ⭐⭐⭐
 format: float
 unit: eur
-importance: high
+description: La Musique est la représentation codée des dernières performances d'un cheval, lue de la plus récente à la plus ancienne.
 ---
 ## 1. Définition
 La "Musique" est la représentation codée des dernières performances d'un cheval, lue de la plus récente (à gauche) à la plus ancienne.
